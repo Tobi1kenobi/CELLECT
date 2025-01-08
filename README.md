@@ -43,7 +43,7 @@ git submodule update --init --recursive # get the latest version of the ldsc sub
 ## Installation
 
 **Step 1: Install git lfs**  
-We use [`git lfs`](https://git-lfs.github.com/) to store the [CELLECT data files](https://github.com/perslab/CELLECT/data) on github. To download the files you need to have `git lfs` setup before you clone the repository.
+We use [`git lfs`](https://git-lfs.github.com/) to store the [CELLECT data files](https://github.com/Tobi1kenobi/CELLECT/data) on github. To download the files you need to have `git lfs` setup before you clone the repository.
 On OSX: `brew install git-lfs; git lfs install` or Ubuntu:`sudo apt-get install git-lfs; git lfs install`. For other operating systems, follow [this guide](https://github.com/git-lfs/git-lfs/wiki/Installation).
 
 **Step 2: Clone CELLECT repository**  
