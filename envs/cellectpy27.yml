@@ -1,7 +1,5 @@
 name: cellectpy27 # ONLY USED FOR LDSC
 channels:
-  - anaconda
-  - defaults
   - conda-forge
   - bioconda
 dependencies:

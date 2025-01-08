@@ -1,8 +1,6 @@
 
 name: cellectpy3 # USED FOR EVERYTHING PYTHON EXCEPT LDSC.PY
 channels:
-  - anaconda
-  - defaults
   - conda-forge
   - bioconda
 dependencies:

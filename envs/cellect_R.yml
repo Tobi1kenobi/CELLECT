@@ -1,7 +1,6 @@
 name: cellect_R
 channels:
-  - defaults
-  - r
+  - conda-forge
 dependencies:
   - r-base=3.5.1
   #- r-tidyverse # All packages from the R channel are prefixed with “r-"
